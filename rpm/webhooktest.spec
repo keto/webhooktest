@@ -5,3 +5,4 @@ Summary:	Webhook test
 
 %description
 Just a test dummy
+Test
